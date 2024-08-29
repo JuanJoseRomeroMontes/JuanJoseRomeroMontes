@@ -21,8 +21,3 @@
 <a href="mailto:juanjo.romero.dev@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Email_icon.png" alt="Correo Electrónico" width="48" height="48">
 </a>
-<br>
-
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
