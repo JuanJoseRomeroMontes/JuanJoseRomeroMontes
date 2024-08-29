@@ -3,14 +3,14 @@
 <h2 align="left"> Mis habilidades</h2>
 <br>
 <div align="left" width="100%" display="flex" flex-flow="row wrap" justify-content="space-evenly">
-    <img src="icon/c.png" width="19%" height="auto"/>
-    <img src="icon/java.png" width="19%" height="auto"/>
-    <img src="icon/ts.png" width="19%" height="auto"/>
-    <img src="icon/react.png" width="19%" height="auto"/>
-    <img src="icon/php.png" width="19%" height="auto"/>
-    <img src="icon/html.png" width="19%" height="auto"/>
-    <img src="icon/css.png" width="19%" height="auto"/>
-    <img src="icon/sql.png" width="19%" height="auto"/>
+    <img src="icons/c.png" width="19%" height="auto"/>
+    <img src="icons/java.png" width="19%" height="auto"/>
+    <img src="icons/ts.png" width="19%" height="auto"/>
+    <img src="icons/react.png" width="19%" height="auto"/>
+    <img src="icons/php.png" width="19%" height="auto"/>
+    <img src="icons/html.png" width="19%" height="auto"/>
+    <img src="icons/css.png" width="19%" height="auto"/>
+    <img src="icons/sql.png" width="19%" height="auto"/>
     <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="19%" height="auto"/>
     <img src="https://www.svgrepo.com/show/376337/node-js.svg" width="19%" height="auto"/>
 </div>
