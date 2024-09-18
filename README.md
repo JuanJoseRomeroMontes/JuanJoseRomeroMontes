@@ -1,6 +1,6 @@
 ## Hi I'm Juan Jose! 👋
 
-I'm a fullstack developer passionate about coding and developing my skills, I like to working with a team to help each other develop and improve our soft and coding skills 😄
+I'm a fullstack developer passionate about coding and developing my skills, I like to working with a team to help each other develop and improve our coding and soft skills 😄
 <h2 align="left">Skills</h2>
 <br>
 <div align="left" width="100%" display="flex" flex-flow="row wrap" justify-content="space-evenly">
